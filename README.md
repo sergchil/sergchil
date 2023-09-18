@@ -36,7 +36,7 @@ Experienced Senior Software Engineer | 10+ years in mobile app development | Pas
 
 ## 🎓 Education & Learning
 
-📘 **Computer Science**, National Polytechnic University of Armenia (2010-2012)
+📘 **Computer Science**
 
 💡 I'm currently learning/expanding my knowledge on _(Flutter and Backend Development)_.
 
